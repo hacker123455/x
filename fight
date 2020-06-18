@@ -1,8 +1,3 @@
-if game.Players.LocalPlayer.Name == "iRealKardes345" then -- or
-else
-game.Players.LocalPlayer:Kick("Sanırım Hala Satın Almamışsın /:  Satın Almak İçin Ice & Fire#0001 e Mesaj Atmalısın") -- Kicks anyone without the name "ROBLOX"
-end
-
 function LoadLibrary(a)
     return loadstring(game:HttpGet("https://raw.githubusercontent.com/hacker123455/x/master/DANCEEE", true))()
 end
